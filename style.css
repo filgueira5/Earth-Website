@@ -30,7 +30,7 @@ a {
 .header {
     width: 100vw;
     min-height: 100vh;
-    background-image: url(./main.png);
+    background-image: url(./source/main.png);
     background-position: center;
     background-size: cover;
     padding-left: 10%;
@@ -135,7 +135,7 @@ nav {
 }
 
 .contact__us {
-    background-image: url(./talk-to-us.png);
+    background-image: url(/source/talk-to-us.png);
     background-position: center;
     background-size: cover;
     min-width: 100vw;
